@@ -6,18 +6,22 @@ First we created a query that retrieved the emp_no, first_name and last_name col
 
 
 ## Results
-The first table that determines the number of retiring employees and their position titles can be viewed here: [retiring_titles.csv](https://github.com/crdhilep/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+1. The first table that determines the number of retiring employees and their position titles can be viewed here: [retiring_titles.csv](https://github.com/crdhilep/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
 
-A mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965 was created and can be viewed here: [mentorship_eligibility.csv](https://github.com/crdhilep/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
+2. A mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965 was created and can be viewed here: [mentorship_eligibility.csv](https://github.com/crdhilep/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
 
 ## Summary
 
 - 90398 employees were retiring from the company
 
+- Employees Retering count by Title
+
 ![employees_retiring_count_by_title](Resources/employees_retiring_count_by_title.png)
 
 - 1549 current employees were eligible for the mentorship program.
+
+- Employees Eligible for mentorship program by Title
 
 ![mentorship_eligiblity_by_title_count](Resources/mentorship_eligibility_by_title.png)
 
