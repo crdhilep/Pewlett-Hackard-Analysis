@@ -17,11 +17,11 @@ First we created a query that retrieved the emp_no, first_name and last_name col
 
 - Employees Retering count by Title
 
-      ![employees_retiring_count_by_title](Resources/employees_retiring_count_by_title.png)
+     ![employees_retiring_count_by_title](Resources/employees_retiring_count_by_title.png)
 
 - 1549 current employees were eligible for the mentorship program.
 
 - Employees Eligible for mentorship program by Title
 
-    ![mentorship_eligiblity_by_title_count](Resources/mentorship_eligibility_by_title.png)
+     ![mentorship_eligiblity_by_title_count](Resources/mentorship_eligibility_by_title.png)
 
