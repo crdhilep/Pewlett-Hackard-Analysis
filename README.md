@@ -15,9 +15,9 @@ A mentorship-eligibility table that holds the current employees who were born be
 
 - 90398 employees were retiring from the company
 
-- ![employees_retiring_count_by_title](Resources/employees_retiring_count_by_title.png)
+![employees_retiring_count_by_title](Resources/employees_retiring_count_by_title.png)
 
 - 1549 current employees were eligible for the mentorship program.
 
-- ![mentorship_eligiblity_by_title_count](Resources/mentorship_eligibility_by_title.png)
+![mentorship_eligiblity_by_title_count](Resources/mentorship_eligibility_by_title.png)
 
